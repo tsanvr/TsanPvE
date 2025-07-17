@@ -1,0 +1,24 @@
+GameProject {
+ ID "TsanPvE"
+ GUID "65B6ED9FC7A68430"
+ TITLE "TsanPvE"
+ Dependencies {
+  "58D0FB3206B6F859" "61B514B96692C049" "628729E87E79DA7F" "1337C0DE5DABBEEF" "BADC0DEDABBEDA5E" "595F2BF2F44836FB" "62A668F513428630" "61C74A8B647617DA" "615806DC6C57AF02" "615818DA7C0343FD" "62CCD69DD17E4F2F" "629B2BA37EFFD577" "6273146ADFE8241D"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+  GameProjectConfig Xbox {
+  }
+ }
+}
